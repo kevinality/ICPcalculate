@@ -1,0 +1,35 @@
+FromAnalyte,ToAnalyte,Multiplier,TLV_filter
+Aluminum,Aluminum Hydroxide,2.89,10
+Aluminum,Aluminum Oxide,1.889,10
+Aluminum,Aluminum Silicate,3.003,10
+Aluminum,Aluminum Sulfate,6.34,10
+Antimony,Antimony Trioxide,1.197,10
+Barium,Barium Sulfate,1.6998,10
+Beryllium,Beryllium Oxide,2.776,10
+Boron,Boron Oxide,3.22,10
+Cadmium,Cadmium Oxide,1.142,10
+Calcium,Calcium Carbonate,2.497,10
+Calcium,Calcium Carbonate as Ca,1,10
+Calcium,Calcium Chromate as Cr,1.2974,10
+Calcium,Calcium Hydroxide,1.849,10
+Calcium,Calcium Oxide,1.399,2
+Calcium,Calcium Sulfate,3.397,10
+Calcium,Chromium,1.2954,10
+Iron,Iron Oxide,1.43,5
+Lead,Lead Chromate as Cr,0.251,10
+Magnesium,Magnesium Fluoride,2.563,10
+Magnesium,Magnesium Oxide,1.658,10
+Molybdenum,Molybdenum Disulfide,1.668,10
+Nickel,Nickel Oxide,1.273,10
+Potassium,Potassium Hydroxide,1.435,10
+Silver,Silver Nitrate,1.57,10
+Sodium,Sodium Hydroxide,1.74,10
+Sodium,Sodium Hypochlorite,7.306,10
+Boron,Sodium Tetraborate,4.65,10
+Strontium,Strontium Chromate as Cr,0.5935,10
+Titanium,Titanium Oxide,1.334,10
+Vanadium,Vanadium Pentoxide,1.785,0.1785
+Vanadium,Vanadium Pentoxide as V,1,0.1
+Zinc,Zinc Chloride,2.085,10
+Zinc,Zinc Chromate as Cr,0.7954,10
+Zinc,Zinc Oxide,1.245,2
